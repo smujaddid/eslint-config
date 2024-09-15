@@ -1,0 +1,22 @@
+{
+  "name": "@smujaddid/eslint-config",
+  "version": "0.0.1",
+  "description": "Sibghatullah Mujaddid's personal ESLint config",
+  "main": "dist/cjs/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smujaddid/eslint-config.git"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "Sibghatullah Mujaddid <fardiaz138@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smujaddid/eslint-config/issues"
+  },
+  "homepage": "https://github.com/smujaddid/eslint-config#readme"
+}
